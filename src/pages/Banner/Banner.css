@@ -1,0 +1,59 @@
+
+.container-main img{
+    width: 100%; 
+}
+.container1 {
+    position: relative;
+    font-family: Arial;
+  }
+  .text-block1 {
+    position: absolute;
+    bottom: 320px;
+    left: 100px;
+    color: rgb(3, 3, 3);
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+    padding: 20px 40px;
+    border-radius: 10px;
+  }
+  
+.text-block {
+   position:absolute;
+   top:15%;
+   left: 60%;
+   width: 40%;
+   padding: 30px;
+
+  }
+  .text-block-revised{
+    position:absolute;
+    left: 10%;
+    top:30%;
+    width: 50%;
+    padding: 30px;
+  }
+
+ 
+  .mid-nav{
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    border-radius: 10px;  
+    
+  }
+
+.find-button{
+    background-color: black;
+    color: rgb(219, 209, 209);
+    padding: 10px 90px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.find-button:hover{
+    color:white;
+}
+.banner-section{
+    text-align:left;
+}
