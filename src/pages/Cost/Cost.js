@@ -11,7 +11,7 @@ const Cost = () => {
             </div>
 
             <div>
-                <img className='py-10 w-5/6 rounded-md' src={costImg} alt="fireImage" />
+                <img className='sm:ms-20 py-10 w-5/6 rounded-md' src={costImg} alt="fireImage" />
             </div>
 
         </div>

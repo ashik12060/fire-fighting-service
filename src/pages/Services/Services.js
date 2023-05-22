@@ -13,7 +13,7 @@ const Services = () => {
 
                     </div>
 
-                    <div className="grid grid-cols-3 w-full mx-auto text-center mt-24">
+                    <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 w-full mx-auto text-center mt-24">
                         <div className="bg-[#041436] mt-10 mb-10 ml-20 p-20">
 
                             <FontAwesomeIcon className="text-6xl pb-4 text-[#F01313] " icon={faHandshake} />

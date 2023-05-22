@@ -11,7 +11,7 @@ const About = () => {
         <p className='text-xl pt-4'>Protection is fundamental sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut your safety is top priority</p>
       </div>
       <div>
-        <img className='h- w-5/6 rounded-md' src={fireimg} alt="fireImage" />
+        <img className='sm:ms-20 w-5/6 rounded-md' src={fireimg} alt="fireImage" />
       </div>
     </div>
   )
