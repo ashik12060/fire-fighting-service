@@ -14,16 +14,11 @@ const Header = () => {
                 </div>
                 <div className=''>
                     <ul className="flex  gap-6 item-center text-2xl">
-                        <li className='hover:text-red-500'><a className="text-white hover:text-[#F01313]" href="/home">HOME</a></li>
-                        <li><a className="text-white hover:text-[#F01313]" href="/products">PRODUCTS</a></li>
-                        <li><a className="text-white hover:text-[#F01313]" href="/booking">BOOKING</a></li>
-                        <li><a className="text-white hover:text-[#F01313]" href="/about">ABOUT</a></li>
-                        <li><a className="text-white hover:text-[#F01313]" href="/contact">CONTACT</a></li>
+                    
+                        <li><a className="text-white hover:text-[#F01313]" href="/contact">Contact</a></li>
                     </ul>
                 </div>
-                <div>
-                    <button className='bg-white text-[#F01313] border-4 hover:border-red-500  text-3xl px-5 py-3 rounded-full '>Get a Quote</button>
-                </div>
+                
             </nav>
         </header>
     )
